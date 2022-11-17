@@ -8,3 +8,4 @@ print(a * 45 )
 print(a * 2)
 
 print("3")
+print("4")
